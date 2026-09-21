@@ -35,7 +35,7 @@ body{
 }
 .main-centent{
      /* height: 90vh; */
-    background-color: #2a2a2a;
+    background-color: red;
      border: 1px solid   #3a3a3a;
     border-radius: 16px;
     padding: 40px;
